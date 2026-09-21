@@ -15,8 +15,6 @@ This project manages Customers, Accounts, Transactions, Loans, Branches, and Emp
 4.  **ACCOUNTS** - Savings/Current accounts
 5.  **TRANSACTIONS** - Credit/Debit history
 6.  **LOANS** - Home, Car, Personal loans
-### ER Diagram
-![ER Diagram](ER_Diagram.png)
 ### Queries Covered (20)
 - Basic: SELECT, WHERE, ORDER BY
 - Aggregate: COUNT, SUM, AVG, MAX, MIN
